@@ -1,0 +1,92 @@
+//Styling for Card Containing UserProfile Form
+.userProfile-card{
+  height: 350px;
+  width: 500px;
+  margin-top: 30px;
+}
+
+//UserProfile form Styling
+.userProfileForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+}
+
+//Styling for Userprofile Form Fields
+.profileFormElements{
+  display: inline-flex;
+  flex-direction: row;
+  margin-top: 30px;
+  width:100%;
+}
+
+//Styling UserProfile Form Container
+.userProfile-container{
+  position: absolute;
+  left: 150px;
+  top:130px;
+  width: 600px;
+}
+
+//UserProfle Heading Styling
+.userprofile-heading{
+  margin-left: 165px;
+  color: dodgerblue;
+}
+
+//Styling for Save and Cancel Buttons Container
+.options-container{
+  display: flex;
+  flex-direction: row;
+  margin-left: 3.8rem;
+}
+
+//Name Field Styling
+.name-textField{
+  margin-left: 70px;
+  margin-right: 12px;
+}
+
+//Password Field Styling
+.textField{
+  margin-left: 85px;
+}
+
+//Edit Button Styling
+.edit-button{
+  margin-left: -2.9rem;
+}
+
+//Cancel button Styling
+.cancel-button{
+  padding-left:50px;
+}
+
+//Password Field Styling
+.passwordField{
+  padding-left: 13px;
+}
+
+//Name Field Heading styling
+.name{
+  color: dodgerblue;
+}
+
+//Password Field Headimh Styling
+.password{
+  color: dodgerblue;
+  margin-left: -0.7rem;
+}
+
+//User Page Image Container Styling
+.user-profile-Image-container {
+  margin-top: 40px;
+  margin-left: 690px;
+}
+
+//User page Image Styling
+.user-profile-Image {
+  width: 800px;
+}

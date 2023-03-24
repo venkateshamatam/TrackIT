@@ -1,0 +1,62 @@
+//Styling Login Form Container
+.login-form-container {
+    position: absolute;
+    left: 650px;
+    top: 120px;
+    width: 450px;
+    margin-left: 200px;
+}
+
+//Styling for Card containing Login Form
+.login-card {
+    height: 400px;
+}
+
+//LogIn Form Styling
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+//LogIn Image Styling
+.login-Image {
+    width: 800px;
+    height: 600px;
+
+}
+
+//Login Form Elements Styling
+.loginFormElements {
+
+    margin-top: 30px;
+    width: 100%;
+}
+
+//LogIn to SignUp Link Styling
+.loginToSignup {
+    text-decoration: none;
+
+    &:hover {
+        color: red;
+    }
+
+}
+
+
+//Login Heading Styling
+.login-heading {
+    margin-left: 175px;
+    color: dodgerblue;
+}
+
+//Credentials Error Styling
+.error-text{
+    margin-top: 0;
+    margin-bottom: 15px;
+    height: 10px;
+    margin-right: 170px;
+    color: indianred;
+}

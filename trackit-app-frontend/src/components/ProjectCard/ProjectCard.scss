@@ -1,0 +1,43 @@
+.card {
+    margin-left: 7rem;
+    width: 80rem;
+    margin-bottom: 1.2rem;
+    // max-height: 14rem;
+    border-style: solid;
+    height: 14rem !important;
+    border: none;
+    border: 1px groove black;
+    border-left: 4px solid rgb(30, 167, 30);
+
+}
+
+.float-parent-element {
+    display: flex;
+    flex-direction: row;
+    width: 100rem;
+}
+
+.project-card-header {
+    width: 78rem;
+}
+
+.footer {
+    margin-left: 25px;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.card-action {
+    margin-left: 5rem;
+}
+
+.detail-view-button {
+    margin-left: 48rem !important;
+    margin-top: -9px;
+}
+
+.card-description {
+    width: 78.5rem !important;
+    height: 4.3rem;
+    overflow-y: auto;
+}

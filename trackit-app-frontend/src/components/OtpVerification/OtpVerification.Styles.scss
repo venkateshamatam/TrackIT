@@ -1,0 +1,73 @@
+//Styling for Card cintaining OTP Form
+.otpVerification-card {
+  margin-top: 140px;
+  height: 300px;
+}
+
+//OTP Field Styling
+.otpField {
+  margin-top: 50px;
+  margin-left: 110px;
+  margin-bottom: 0px;
+  height: 60px;
+  width: 300px;
+}
+
+//Countdown Text Styling
+.countdown-text {
+  margin-left: 100px;
+  margin-top: 0;
+  padding: 0px;
+}
+
+//Resend OTP Link Styling
+.resend-otp {
+
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+
+  &:hover {
+    color: red;
+  }
+}
+
+//OTP Timr Counter Styling
+.counter {
+  margin-left: 30px;
+  margin-bottom: 0;
+}
+
+//OTP Heading Styling
+.otpVerification-heading {
+  color: darkviolet;
+  margin-left: 100px;
+}
+
+//OTP Verifed Message Styling
+.otpVerifiedMsg {
+  color: green;
+}
+
+//OTP Verified Text Container Styling
+.otpVerifiedText {
+  margin-left: 155px;
+  margin-top: 0px;
+}
+
+//OTP Submit Button Styling
+.otpSubmitButton{
+  margin-right: 160px;
+
+}
+
+//OTP Not Recieved text Styling
+.otp-NotRecieved-text{
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+
+//OTP Time Styling
+.time{
+  color: blue;
+}

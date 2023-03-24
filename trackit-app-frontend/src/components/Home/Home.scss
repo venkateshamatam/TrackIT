@@ -1,0 +1,14 @@
+.heading {
+    text-align: center;
+    color: royalblue;
+    margin-bottom: 0.1rem !important;
+    text-transform: capitalize;
+}
+
+.projects {
+    overflow-x: hidden !important;
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    margin-right: 3.8rem !important;
+    margin-bottom: 1rem !important;
+}
